@@ -1,4 +1,4 @@
-# unLocker
+# jUnLocker (Java version)
 
 A simple application for deleting database lock files.
 
